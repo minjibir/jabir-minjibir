@@ -1,0 +1,45 @@
+{
+  "title": "Jabir Minjibir",
+  "name": "jabir-minjibir",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "description": "A personal website of Jabir Minjibir.",
+  "keywords": [
+    "software",
+    "engineer",
+    "developer",
+    "full stack",
+    "jabir",
+    "minjibir"
+  ],
+  "homepage": "https://jabirminjibir.com",
+  "license": "MIT",
+  "author": "Jabir Minjibir",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minjibir/jabir-minjibir.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.10.2",
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "5.1.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "7.0.0",
+    "gulp-clean-css": "4.2.0",
+    "gulp-header": "2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0"
+  },
+  "main": "gulpfile.js"
+}
